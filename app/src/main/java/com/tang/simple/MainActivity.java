@@ -1,4 +1,4 @@
-package com.tang.pagestate;
+package com.tang.simple;
 
 import androidx.appcompat.app.AppCompatActivity;
 
